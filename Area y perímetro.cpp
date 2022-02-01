@@ -12,6 +12,8 @@ int main()
 	area = 0;
 	perimetro = 0;
 	
+	
+	print("Edición por parte de Kevin Alberto Escobar Mtz git pull request");
 	printf("Ingrese la base del rectángulo: ");
 	scanf("%d", &base); 
 	printf("Ingrese la altura del rectángulo: ");
