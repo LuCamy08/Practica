@@ -14,6 +14,7 @@ int main()
 	
 	
 	print("Edición por parte de Kevin Alberto Escobar Mtz git pull request");
+	printf("Editado por Vicente Luis Marin S8A");
 	printf("Ingrese la base del rectángulo: ");
 	scanf("%d", &base); 
 	printf("Ingrese la altura del rectángulo: ");
